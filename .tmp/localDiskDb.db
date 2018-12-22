@@ -70,7 +70,8 @@
         },
         "createdAt": 1504095571434,
         "updatedAt": 1504095571434,
-        "id": 3
+        "is_favorite": false,
+       "id": 3
       },
       {
         "name": "Katz's Delicatessen",
@@ -219,6 +220,7 @@
       {
         "name": "Casa Enrique",
         "neighborhood": "Queens",
+        "photograph": "9",
         "address": "5-48 49th Ave, Queens, NY 11101",
         "latlng": {
           "lat": 40.743394,
